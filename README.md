@@ -1,4 +1,4 @@
-# LuaWare-V.0.0.3
+# LuaWare-V.0.0.4
 LuaWare is an independent (as in loadstring terms) Roblox executor which is an loadstring! Our team (Instance.new) is working on the executor, and advancing it at every way we can.
 
 I'ts connections:
